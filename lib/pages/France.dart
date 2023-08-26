@@ -12,7 +12,7 @@ class France extends StatelessWidget
     return Scaffold(
 
       appBar: AppBar(
-        title: txt(name: 'France',),
+        title: txt(name: 'France1',),
         backgroundColor: Colors.purple,
       ),
       body: Container(
